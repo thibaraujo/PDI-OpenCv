@@ -24,7 +24,7 @@
 </p>
 
 ## Tomato
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the case of the tomato image, the objective was to select only the tomatoes present in the photo, as can be seen below: </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the case of the tomato image, the objective was to select only the tomatoes present in the photo below: </p>
 <br>
 <p>
 <center>
